@@ -1,0 +1,13 @@
+Reading modules: 
+
+\Assembly-CSharp.dll
+\Assembly-CSharp-firstpass.dll
+Applying patch... Assembly-CSharp.dll
+Applying patch... Assembly-CSharp-firstpass.dll
+
+Done! Patch Sucessful.
+OSVersion: Microsoft Windows NT 6.1.7601 Service Pack 1
+PlatformID: Win32NT
+Creating mods folder is: D:\Games\Steam\SteamApps\common\OxygenNotIncluded\Mods
+
+Press any key to continue . . . 
